@@ -2,10 +2,10 @@
 I am front-end developer. I quickly navigate the documentation in English. I worked freelance for 7 months.
 
 <p align='center'>
-   <a href="https://www.linkedin.com/in/азамат-бердимуратов-03b1a0236/">
+   <a href="https://www.linkedin.com/in/азамат-бердимуратов-03b1a0236/" target="_blank">
        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
    </a>
-   <a href="https://t.me/lexoice1997">
+   <a href="https://t.me/lexoice1997" target="_blank">
        <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
    </a>
 <p align='center'>
