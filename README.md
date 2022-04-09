@@ -1,5 +1,5 @@
 # Hi, I'm Azamat 👋
-I am front-end developer. I quickly navigate the documentation in English. I worded freelance for 7 months.
+I am front-end developer. I quickly navigate the documentation in English. I worked freelance for 7 months.
 
 <p align='center'>
    <a href="https://www.linkedin.com/in/азамат-бердимуратов-03b1a0236/">
